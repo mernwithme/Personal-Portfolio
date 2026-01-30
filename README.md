@@ -11,6 +11,10 @@
   - About me and skills section
   - Contact information
 
-## 🔥 Optional upgrades
-  # Screenshot
+## 🔥 Screenshots
+### Home Page
+![Home Page](Screenshot2.png),
+
+
+  
     
